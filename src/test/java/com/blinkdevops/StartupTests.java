@@ -1,4 +1,4 @@
-package com.blinkdevops.restspringjava;
+package com.blinkdevops;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
